@@ -1,2 +1,2 @@
 # geolocalizacaoDadosTSE
-Georreferenciamento de dados das seções eleitorais. Cruzamento dos dados do TSE com áreas de ponderação do IBGE.
+Georreferenciamento de dados das seções eleitorais para a cidade de Osasco. Cruzamento dos dados do TSE com áreas de ponderação do IBGE.
